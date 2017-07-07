@@ -22,3 +22,4 @@ function delay(timout) { //不小心把timeout 写成 timout，结果不会被�
 * [dva新手起步](https://github.com/dvajs/dva/blob/master/docs/GettingStarted.md)
 * [Why dva](https://github.com/dvajs/dva/issues/1)
 * [支付宝前端应用架构的发展](https://github.com/sorrycc/blog/issues/6)
+* [ECMAScript 6新手入门](http://es6.ruanyifeng.com/#docs/module#import%E5%91%BD%E4%BB%A4)
